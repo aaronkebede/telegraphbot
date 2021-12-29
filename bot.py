@@ -21,7 +21,7 @@ logger.setLevel(logging.INFO)
 
 
 def start_cmd(update, context):
-    update.message.reply_text(f"Hello {update.message.from_user.first_name}.\n\nI can upload photos from telegram to https://telegra.ph.\n This works when you send the photo as an image(Will not work if sent as a file)\n\n Made by @AaronKebede - https://kebede.org.")
+    update.message.reply_text(f"Hello {update.message.from_user.first_name}.\n\nI can upload photos from telegram to telegra.ph.\n\n This works when you send the photo as an image(will not work if sent as a file)\n\n Made by @AaronKebede - kebede.org. \n\n")
 
 
 def upload_cmd(update, context):
