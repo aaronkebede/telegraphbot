@@ -1,4 +1,4 @@
-# [Telegra.ph Bot](https://t.me/hk_telegraph_bot)
+# [Telegra.ph Bot](https://t.me/kebedegraphbot)
 
 
 #### Requirements
